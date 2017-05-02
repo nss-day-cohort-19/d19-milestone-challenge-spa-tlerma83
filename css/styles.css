@@ -1,0 +1,21 @@
+body {
+    background: navy;
+}
+.border {
+    border: 3px solid black;
+    background: white;
+}
+
+.classed-up {
+    border: 5px dotted pink;
+    background: purple;
+    color: chartreuse;
+
+}
+
+.row {
+    display:inline-flex;
+    flex-direction:row;
+    padding 5px;
+    margin-left: 10px;
+}

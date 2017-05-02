@@ -1,0 +1,25 @@
+{
+    "cars": [
+        {
+            "make": "Nissan",
+            "model": "Rogue",
+            "year": "2006",
+            "price": "8999",
+            "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything."
+        },
+        {
+            "make": "Mini",
+            "model": "sport",
+            "year": "2015",
+            "price": "1000000",
+            "description": "This is my bae"
+        },
+        {
+            "make": "Chevy",
+            "model": "Malibu",
+            "year": "2004",
+            "price": "5",
+            "description": "OG Bae"
+        }
+    ]
+}
